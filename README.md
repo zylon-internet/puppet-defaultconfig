@@ -1,7 +1,7 @@
 puppet-defaultconfig
 =============
 
-example42/puppet-apache#10
+https://github.com/example42/puppet-apache/pull/7
 
 Usage:
 
